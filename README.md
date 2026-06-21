@@ -4,14 +4,6 @@ Data Analyst with a BSc in Applied Statistics from The Catholic University of Ma
 
 ---
 
-# Hi, I'm Alex Maseko 👋
-
-### Data Analyst | Applied Statistician | Business Intelligence & Forecasting Enthusiast
-
-Applied Statistics graduate with experience in data analytics, dashboard development, statistical modelling, KPI monitoring, forecasting, and business intelligence. Passionate about using data to drive evidence-based decision-making across business, healthcare, and energy sectors.
-
----
-
 # 🚀 Featured Projects
 
 ## 🛍 Customer Behavior Analysis
